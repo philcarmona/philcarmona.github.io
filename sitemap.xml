@@ -4,64 +4,64 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>https://philcarmona.github.io/</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/tags.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/categories.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/authors.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/authors.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/archives.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/pages/enseignementsteaching.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/pages/enseignementsteaching.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/pages/.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/pages/.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/pages/prepublications.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/pages/prepublications.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://philcarmona.github.io/pages/publications.html</loc>
-<lastmod>2020-07-09T15:41:27-00:00</lastmod>
+<loc>/pages/publications.html</loc>
+<lastmod>2020-07-09T18:52:09-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
