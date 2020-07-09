@@ -1,0 +1,32 @@
+
+<html>
+<head>
+<meta name="save_as" content="index.html">
+  <title>Home</title>
+</head>
+<body>
+<img alt="Photo de Philippe Carmona" src="./Alesund2017.jpg" border="0" height="223" width="160" />
+        <h2 align="center">Philippe Carmona</h2>
+
+        <h2 align="center">Professeur</h2>
+<h2 align="center">Responsable du/ Head of "Master de Mathématiques"</h2>
+<h2 align="center">Spécialité : Théorie des Probabilités</h2>
+          
+
+<h3> Un <a href="./cv2019bis.pdf">Curriculum Vitae</a>
+
+
+<h1> Research interests/ Recherche </h1>
+<ul>
+<li>Stochastic models of population
+<li>Interacting self avoiding random walks
+<li>Directed polymers in random environment
+</ul>
+
+
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3544-5416" href="https://orcid.org/0000-0003-3544-5416" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0003-3544-5416</a></div>
+
+</body>
+
+</html>
