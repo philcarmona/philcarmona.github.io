@@ -5,63 +5,63 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T20:09:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T20:09:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T20:09:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T20:09:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T20:09:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
 <loc>/pages/enseignementsteaching.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T18:29:23+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T17:39:56+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/prepublications.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T17:33:09+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/pages/publications.html</loc>
-<lastmod>2020-07-09T18:52:09-00:00</lastmod>
+<lastmod>2020-07-09T17:33:09+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
